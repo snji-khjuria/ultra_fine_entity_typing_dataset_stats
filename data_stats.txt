@@ -1,0 +1,21 @@
+Training Data
+====================
+Entity linking:-5Million
+Crowd sourced:-2k
+Headword Supervision:-20Million
+
+
+Dev-Set
+====================
+2k crowdsourced
+
+
+Test-set
+====================
+2k crowdsourced
+
+
+
+Types dictionary size
+=====================
+10331
